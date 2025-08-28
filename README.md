@@ -8,9 +8,9 @@ Built with **Python**, **OpenCV**, and **MediaPipe**, it showcases futuristic, t
 
 <div align="center">
   
-![Touchless Interface Demo](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWZvY2V0dWJ0a2V2bGJ4a2Q3c2J6dW1qZ3V4eWp6cWp6b3o0eGZ6ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7kn27lnYSA3GJYW5ZV/giphy.gif)
+![Touchless Interface Demo](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjlhYzVlY2N3b3R0bGZ0Z2h4eXJ0YzN2aXZ6bGJ6ZzZ0dGZ6ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4Vtk43fQzSqZaGJ5dR/giphy.gif)
 
-*Demo showing grab, move, resize, and spawn functionality with smooth animations*
+*Interactive demonstration showing grab, move, resize, and spawn functionality with smooth animations*
 
 </div>
 
@@ -18,14 +18,18 @@ Built with **Python**, **OpenCV**, and **MediaPipe**, it showcases futuristic, t
 
 ## ✨ Features
 
+<div align="center">
+
 | Feature | Description | Visual |
 |---------|-------------|--------|
-| **Multiple Draggable Images** | Move different objects separately | ![Drag](https://img.icons8.com/fluency/48/000000/drag.png) |
-| **Pinch to Resize** | Shrink or enlarge objects naturally | ![Resize](https://img.icons8.com/fluency/48/000000/resize.png) |
-| **Glow Effect** | Visual highlight while holding an object | ![Glow](https://img.icons8.com/fluency/48/000000/glow.png) |
-| **Animated Transitions** | Smooth scale animation for realistic UX | ![Animation](https://img.icons8.com/fluency/48/000000/animation.png) |
-| **Boundary Protection** | Objects stay within screen boundaries | ![Boundary](https://img.icons8.com/fluency/48/000000/boundary.png) |
-| **Gesture Spawning** | Open palm creates new draggable objects | ![Spawn](https://img.icons8.com/fluency/48/000000/plus.png) |
+| **Multiple Draggable Images** | Move different objects separately | <img src="https://img.icons8.com/fluency/48/000000/drag.png" width="40"> |
+| **Pinch to Resize** | Shrink or enlarge objects naturally | <img src="https://img.icons8.com/fluency/48/000000/resize.png" width="40"> |
+| **Glow Effect** | Visual highlight while holding an object | <img src="https://img.icons8.com/fluency/48/000000/glow.png" width="40"> |
+| **Animated Transitions** | Smooth scale animation for realistic UX | <img src="https://img.icons8.com/fluency/48/000000/animation.png" width="40"> |
+| **Boundary Protection** | Objects stay within screen boundaries | <img src="https://img.icons8.com/fluency/48/000000/boundary.png" width="40"> |
+| **Gesture Spawning** | Open palm creates new draggable objects | <img src="https://img.icons8.com/fluency/48/000000/plus.png" width="40"> |
+
+</div>
 
 ---
 
@@ -33,9 +37,9 @@ Built with **Python**, **OpenCV**, and **MediaPipe**, it showcases futuristic, t
 
 <div align="center">
   
-![Gesture Mapping](https://i.imgur.com/5K5f7Eo.png)
+![Gesture Mapping](https://i.imgur.com/9zQ8t7E.png)
 
-*Hand gesture mapping for different interactions*
+*Visual representation of hand gesture mapping for different interactions*
 
 </div>
 
@@ -89,7 +93,7 @@ Built with **Python**, **OpenCV**, and **MediaPipe**, it showcases futuristic, t
 
 3. **Install required packages**
    ```bash
-   pip install -r requirements.txt
+   pip install opencv-python mediapipe cvzone numpy
    ```
 
 4. **Project Structure**
@@ -116,9 +120,9 @@ Built with **Python**, **OpenCV**, and **MediaPipe**, it showcases futuristic, t
 
 <div align="center">
   
-![Usage Demo](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2Z3dWJ6c3lqZ2h2N2N0eGZ6dG5xZ2V5dGJ6ZzZ0dGZ6ZzZ0dGZ6ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4Vtk43fQzSqZaGJ5dR/giphy.gif)
+![Usage Demo](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjlhYzVlY2N3b3R0bGZ0Z2h4eXJ0YzN2aXZ6bGJ6ZzZ0dGZ6ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7kn27lnYSA3GJYW5ZV/giphy.gif)
 
-*Demonstration of different gestures and interactions*
+*Demonstration of different gestures and interactions with visual feedback*
 
 </div>
 
